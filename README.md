@@ -1,6 +1,6 @@
 ### Welcome!
 
-I enjoying programmming as a hobby, primarily in compiled languages such as *Ada* and *C*, but also others such as *Nim* and *Go* for example. Most of programming is focused on *Ada* these days, which I starting learning in 2020. If you are interested in knowing more about *Ada* the [Learning Ada](https://learn.adacore.com/) web site is a very good place to start.
+I enjoying programmming as a hobby, primarily in compiled languages such as *Ada* and *C*, but also others such as *Nim* and previously *Go*. Most of my coding is focused on *Ada* these days, which I starting learning in 2020. If you are interested in knowing more about *Ada* I recomend reviewing the [Learning Ada](https://learn.adacore.com/) web site, which is a very good resource, and good place to start.
 
 I also use quite a bit of scripting code (mainly *bash* and *PowerShell*) as I use them to automate and manage my computers.
 
