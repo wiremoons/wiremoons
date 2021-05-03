@@ -1,10 +1,10 @@
 ### Welcome!
 
-I enjoying programmming as a hobby, primarily in compiled languages such as *Ada* and *C*, but also others such as *Nim* and previously *Go*. Most of my coding is focused on *Ada* these days, which I starting learning in 2020. If you are interested in knowing more about *Ada* I recomend reviewing the [Learning Ada](https://learn.adacore.com/) web site, which is a very good resource, and good place to start.
+I enjoying programmming as a hobby, primarily in compiled languages such as *C*. I also explore others languages such as *Ada*, *Nim* and previously *Go*. 
 
 I also use quite a bit of scripting code (mainly *bash* and *PowerShell*) as I use them to automate and manage my computers.
 
-My programs primarily focus on command line interface (CLI) tools that provide utilities for my own personal use. These are shared as open source in case they are of use to others. Most of my programs should work on any mainstream operating system (ie Linux; Windows; macOS; FreeBSD; etc), as I tend to use them all from time to time. My primary OS is Ubuntu Linux, so most of my code and activities originate on that platform.
+My programs primarily focus on command line interface (CLI) tools that provide utilities for my own personal use. These are shared as open source in case they are of use to others. Most of my programs should work on any mainstream operating system (ie Linux; Windows; macOS; FreeBSD; etc), as I tend to use them all from time to time. My primary OS is macOS, so most of my code and activities originate on that platform.
 
 You can also visit my main web site here: www.wiremoons.com
 
