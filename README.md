@@ -1,6 +1,6 @@
 ### Welcome!
 
-I enjoying programmming as a hobby, primarily in compiled languages such as *C*. I also explore others languages such as *Ada*, *Nim*, *OCaml* and previously *Go*. 
+I enjoying programming as a hobby, primarily in compiled languages such as *C*. I also explore others languages such as *Ada*, *Nim*, *OCaml* and previously *Go*. 
 
 I also use quite a bit of scripting code (mainly *zsh* and *PowerShell*) as I often use them to automate and manage my computers.
 
