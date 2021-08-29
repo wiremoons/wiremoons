@@ -1,8 +1,8 @@
 ### Welcome!
 
-I enjoying programming as a hobby, primarily in compiled languages such as *C*. I also explore others languages such as *Ada*, *Nim*, *OCaml* and previously *Go*. 
+I enjoying programming as a hobby, primarily in compiled languages such as *C*. I have also explored quite a few others languages such as *Ada*, *Nim*, *OCaml*, *Lisp* and previously *Go*. Currently I am exploring *[Deno](https://deno.land/)* with the languages *TypeScript* and *JavaScript*.
 
-I also use quite a bit of scripting code (mainly *zsh* and *PowerShell*) as I often use them to automate and manage my computers.
+I also use quite a bit of scripting code (historically mainly *zsh* and *PowerShell*) as I often use them to automate and manage my computers.
 
 My programs primarily focus on command line interface (CLI) tools that provide utilities for my own personal use. These are shared as open source in case they are of use to others. Most of my programs should work on any mainstream operating system (ie Linux; Windows; macOS; FreeBSD; etc), as I tend to use them all from time to time. My primary OS is macOS, so most of my code and activities originate on that platform.
 
