@@ -14,7 +14,7 @@ If you want to report a problem with one of my code repositorties, or you just w
 
 #### GitHub Stats for : wiremoons
 <a href="https://github.com/wiremoons/wiremoons">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=wiremoons&show_icons=true&hide_title=true&line_height=15&count_private=true&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats for wiremoons" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=wiremoons&show_icons=true&hide_title=true&line_height=15&count_private=true&theme=light&hide_border=true&layout=compact" alt="GitHub Stats for wiremoons" />
 </a>
 
 #### Other Places
