@@ -1,6 +1,6 @@
 ### Welcome!
 
-I enjoying programming as a hobby, primarily in compiled languages such as *C*. I have also explored quite a few others languages such as *Ada*, *Nim*, *OCaml*, *Lisp* and previously *Go*. Currently I am exploring *[Deno](https://deno.land/)* with the languages *TypeScript* and *JavaScript*.
+I enjoying programming as a hobby, usually in compiled languages such as *Fortran* and *C*. I have also explored quite a few others languages such as *Ada*, *Nim*, *OCaml*, *Lisp* and previously *Go*. Currently I am working primarily in *[Fortran](https://fortran-lang.org)*, and sometimes with *[Deno](https://deno.land/)* that uses the languages *TypeScript* and *JavaScript*.
 
 I also use quite a bit of scripting code (historically mainly *zsh* and *PowerShell*) as I often use them to automate and manage my computers.
 
