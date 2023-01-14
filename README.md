@@ -1,8 +1,6 @@
 ### Welcome!
 
-I enjoying programming as a hobby, usually in compiled languages such as *C++*, *Fortran* and *C*. I have also explored quite a few others languages such as *Ada*, *Nim*, *OCaml*, *Lisp* and previously *Go*. Currently I am working primarily in *C++*, and sometimes with *[Fortran](https://fortran-lang.org)*.
-
-I also use quite a bit of scripting code (historically mainly *zsh* and *PowerShell*) as I often use them to automate and manage my computers.
+I enjoying programming as a hobby. Currently I am developing in *[Dart](https://dart.dev/)*, and sometimes with *[Fortran](https://fortran-lang.org)* as a long term interest.
 
 My programs primarily focus on command line interface (CLI) tools that provide utilities for my own personal use. These are shared as open source in case they are of use to others. Most of my programs should work on any mainstream operating system (ie Linux; Windows; macOS; FreeBSD; etc), as I tend to use them all from time to time. My primary OS is macOS, so most of my code and activities originate on that platform.
 
@@ -11,11 +9,6 @@ You can also visit my main web site here: www.wiremoons.com
 I hope you find something useful or interesting 😄
 
 If you want to report a problem with one of my code repositorties, or you just want to leave me a message or comment, you are welcome use the GitHub form here: [Open Issue](https://github.com/wiremoons/wiremoons.github.io/issues/new/choose).
-
-#### GitHub Stats for : wiremoons
-<a href="https://github.com/wiremoons/wiremoons">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=wiremoons&show_icons=true&hide_title=true&line_height=15&count_private=true&theme=light&hide_border=true&layout=compact" alt="GitHub Stats for wiremoons" />
-</a>
 
 #### Other Places
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/wiremoons)
