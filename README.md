@@ -1,6 +1,6 @@
 ### Welcome!
 
-I enjoying programming as a hobby. Currently I am developing in *[Dart](https://dart.dev/)*, *[Odin](https://odin-lang.org)*, and sometimes with *[Fortran](https://fortran-lang.org)* as a long term interest.
+I enjoying programming as a hobby.
 
 My programs primarily focus on command line interface (CLI) tools that provide utilities for my own personal use. These are shared as open source in case they are of use to others. Most of my programs should work on any mainstream operating system (ie Linux; Windows; macOS; FreeBSD; etc), as I tend to use them all from time to time. My primary OS is macOS, so most of my code and activities originate on that platform.
 
